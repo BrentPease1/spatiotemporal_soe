@@ -1,0 +1,22 @@
+Year,Reference,openSource,NumSpecies,NumSpecimen,NumMorphTraits
+1961,Hartman 1961 Smithsonian Misc Coll,1,360,2160,4
+1977,Ricklefs 1977 Condor,0,82,460,8
+1982,James 1982 Ann Zool Fennici,0,680,1360,8
+1987,"Miles, Ricklefs and Travis 1987 Am Nat",0,38,190,8
+1991,Leisler & Winkler 1991 J Orn,0,47,1000,25
+2001,Dunn et al. 2001,0,1031,1031,3
+2004,Korner-Nievergelt & Leisler 2004 J Orn,0,88,656,33
+2004,Ricklefs 2004 Nature,0,1018,1400,8
+2009,Dawideit et al 2009 J Anim Ecol,1,47,376,11
+2010,Claramunt 2010 Evolution,0,553,890,11
+2016,Kennedy et al 2016 Proc Roy Soc B,1,782,4344,2
+2017,Miller at al 2017 Am Nat,1,74,710,10
+2017,Ricklefs 2017 Ecology,1,1642,2288,7
+2017,Cooney et al 2017 Nature,1,2028,2028,4
+2018,"Zanata et al 2018 dataset, for Maruyama et al 2018 Global Ecol Biogeogr",0,157,1554,2
+2018,Phillips et al 2018 J Biogeogr,0,491,2465,9
+2018,Chira et al 2018 Ecology Letters,0,5551,5551,4
+2019,Rodrigues et al 2019 Ecology (ATLANTIC bird traits),1,600,43005,13
+2020,Chira et al 2020 Proc Roy Soc B,0,8748,8748,4
+2020,Pigot et al 2020 Nature Ecol Evol,0,9963,52870,8
+2021,This study (i.e. the data paper for AvoNet),1,11009,90020,8

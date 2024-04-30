@@ -1,0 +1,1 @@
+Taxonomy	Number_of_species	one_measured	four_measured	one_full	four_fullBirdLife	10999	10648	9745	10456	9131eBird	10661	10353	9555	10222	9028BirdTree	9993	9967	9288	9912	8863
