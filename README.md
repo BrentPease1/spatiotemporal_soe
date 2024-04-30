@@ -2,7 +2,7 @@
 
 ### [Brent S. Pease](https://peaselab.com)
 
-### Data/code DOI: [![DOI](https://doi.org/10.5061/dryad.wdbrv15x0)](https://doi.org/10.5061/dryad.wdbrv15x0)
+### Data/code DOI: [![DOI](https://zenodo.org/badge/794152577.svg)](https://zenodo.org/doi/10.5281/zenodo.11094099)
 
 #### Please contact Brent Pease (bpease1@siu.edu) for questions about the code or data.
 __________________________________________________________________________________________________________________________________________
