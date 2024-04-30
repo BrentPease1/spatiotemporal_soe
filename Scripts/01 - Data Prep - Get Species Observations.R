@@ -7,6 +7,12 @@ library(stringr)
 species_list <- fread(here('Data/BBS/SpeciesList.csv'))
 focal_species <- fread(here('Data/BBS/focal_species.csv'))
 
+# read in route data
+routes <- fread(here('Data/BBS/routes.csv'))
+# read in weather data
+weather <- fread(here("Data/BBS/weather.csv"))
+
+
 # get AOU codes from species list to filter observations
 focal_species <- merge(focal_species, species_list[,c('genus_species', "AOU")], 
                        by.x = 'Latin name', by.y = 'genus_species')
@@ -17,11 +23,7 @@ files <- list.files(path = here('Data/BBS'), pattern = 'fifty', full.names = T)
 bbs_observations <- do.call(rbind, lapply(files, fread))
 rm(files)
 
-# read in route data
-routes <- fread(here('Data/BBS/routes.csv'))
 
-# read in weather data
-weather <- fread(here("Data/BBS/weather.csv"))
 
 # Keep routes that meet official BBS criteria (listed in RunType.PDF file within BBS folder)
 # RouteTypeDetailID (Routes.txt) == 1
